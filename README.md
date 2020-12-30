@@ -25,4 +25,4 @@ Loading state, API usage
 # How do they work?
 The scaffolding is done for you. Simply run `yarn` in any of the directories to install the dependencies. Each application has a README with its requirements, you can use `yarn start` to start the local server.
 
-Some might require connection to external APIs, but all information will be provided in the inididual challenge readmes.
+Some might require connection to external APIs, but all information will be provided in the individual challenge readmes.
