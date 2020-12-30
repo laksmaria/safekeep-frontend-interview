@@ -11,15 +11,15 @@ There are 3 directories, each directory is one challenge. In total, we are there
 ### /spootify has a difficulty: ~ 30-45 minutes
 
 &nbsp;
-#### 🚀 [Rocket Ship]
+## /rocket-ship 😄
 Unecessary re-renders, fine grained control 
 
 &nbsp;
-## Medium 😐
+## /dark-mode  😐
 State/Shared State, DOM manipulation
 
 &nbsp;
-## Hard 😬
+## /spootify 😬
 Loading state, API usage 
 
 # How do they work?
